@@ -7,4 +7,4 @@
 ## About me
 
 
-[![Find a random GitHub Profile](https://www.randos.online/u/andrewmcdan?theme=hotdog)](https://randos.online/u/andrewmcdan/next)
+[![Find a random GitHub Profile](https://www.randos.online/u/andrewmcdan?theme=blue)](https://randos.online/u/andrewmcdan/next)
