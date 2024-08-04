@@ -16,6 +16,8 @@ I like to tinker with home automation and my Home Assistant instance. Sometimes 
 ## Stats and Other Stuff
 [![AndrewMcDan's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=andrewmcdan&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/andrewmcdan?tab=repositories)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrewmcdan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 #
 Click the blue button
 
