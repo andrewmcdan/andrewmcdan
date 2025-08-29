@@ -1,24 +1,40 @@
-# Welcome to AndrewMcDan's GitHub
-- 👋 Hi, I’m @andrewmcdan AKA: A.McD.
-- 👀 I’m interested in computers, music, and how they intersect; coding, algorithms, and data structures; and so much more...
-- 🌱 I’m currently learning Software Engineering at Kennesaw State University.
-- 💞️ I’m looking to collaborate on any of my repos.
-- 📫 How to reach me: [A.McD. at Linktree](https://linktr.ee/a.mcd)
-## About me
-I'm a self taught coder currently learning software engineering at Kennesaw State University. I'm working on a Bachelor's Degree, but as soon as I finish that, I'll be moving straight into a Master's program. I started coding about ten years ago with Arduino and have slowly progressed to larger and larger projects. Nowadays, I mostly work in Javascript / Node.js and C++, but occasionally I'll jump into some C#. 
+# 👋 Welcome to AndrewMcDan’s GitHub  
 
-I like to build things. So when I'm not writing code, I'm working on PCB's or 3D printed things. 
+Hi, I’m **Andrew McDaniel** (aka **A.McD**).  
+I’m a **firefighter, software engineering student, and budding entrepreneur** who loves building things—both in code and in the physical world.  
 
-I like to play music. So sometimes I make software that makes make music. ...or noise if you use it wrong enough.
+### **Coder.** 
+I’ve been programming for over a decade, starting with Arduino projects and working my way up to complex systems in **C++**, **JavaScript/Node.js**, and occasionally **C#**.  
 
-I like to tinker with home automation and my Home Assistant instance. Sometimes I even consider making an integration for HA. ...one day.
+### **Musician.** 
+I love exploring the intersection of music and technology—whether that’s designing guitar pedals, creating digital instruments, or just making noise in creative ways.  
 
-## Stats and Other Stuff
+### **Maker.** 
+When I’m not coding, you’ll probably find me designing PCBs, 3D-printing parts, or tinkering with home automation projects.  
+
+---
+
+## About Me  
+
+- Currently studying **Software Engineering at Kennesaw State University**  
+- On track for a **Bachelor’s**, with plans to roll straight into a **Master’s program**  
+- Founder of **A-McD Technology LLC**, where I’m building:  
+  - **[Companion, TheCube](https://github.com/Companion-TheCube)** – a modular AI-powered desktop assistant  
+  - **Megalodon Sound** – hybrid analog/digital guitar pedals with modern control  
+- Open to collaborating on any of my repositories—don’t hesitate to reach out!  
+
+**Find me here:** [🌐 Linktree (A.McD.)](https://linktr.ee/a.mcd)
+
+---
+
+## Stats and Other Stuff  
+
 [![AndrewMcDan's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=andrewmcdan&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/andrewmcdan?tab=repositories)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrewmcdan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-#
-Click the blue button
+---
+
+## 🎲 Click the Blue Button  
 
 [![Find a random GitHub Profile](https://www.randos.online/u/andrewmcdan?theme=blue)](https://randos.online/u/andrewmcdan/next)
